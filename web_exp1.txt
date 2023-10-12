@@ -1,0 +1,26 @@
+<html>
+<nav>
+<div class="dropdown">
+<button class="dropbtn">Home</button>
+<div class="dropdown-content">
+<a href="#">Link 1</a>
+<a href="#">Link 2</a>
+<a href="#">Link 3</a>
+</div></div>
+<div class="dropdown">
+<button class="dropbtn">About</button>
+<div class="dropdown-content">
+<a href="#">Technology</a>
+<a href="#">Features</a>
+<a href="#">Cost</a>
+</div></div>
+<div class="dropdown">
+<button class="dropbtn">Product</button>
+<div class="dropdown-content">
+<a href="#">Smart Watch</a>
+<a href="#">Digital Watch</a>
+<a href="#">Analog Watch</a>
+</div></div>
+<a href="#">Buy Now</a>
+</nav>
+</html>
